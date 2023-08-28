@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Phudu&family=Qwitcher+Grypen:wght@700&display=swap');
+*{
+   background-color:rgb(61, 147, 222);
+   text-align: center;
+   font-family: 'Qwitcher Grypen', cursive;
+}
+h1{
+    font-size: 50px; 
+}
+p{
+    font-size: 40px;
+}
+img{
+    height: 350px;
+    width: 400px;
+}
